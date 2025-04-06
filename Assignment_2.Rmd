@@ -5,7 +5,7 @@ author: |
   Reka Forgo (RF),
   Clara Holst (CH),
   Frederikke Lykke Korreborg (FLK),
-  Zuzia Zyla (ZZ)
+  Zuzanna Zyla (ZZ)
 date: "2024-09-26"
 output:
   pdf_document:
